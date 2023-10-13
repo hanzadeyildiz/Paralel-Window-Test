@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hxobvOaoBtTGtNGMrXSUaQxn12UrQV2kkkfCy3xGDj1RnaXg7SxJVfhSU6nINQVxECD1vwmtY5ob2OhrEEpMg==",
+  "success": true,
+  "projectFilePath": "D:\\4HERA(Git)\\ParalelWindowTest\\ParalelWindowTest\\ParalelWindowTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\cefsharp.common.netcore\\116.0.230\\cefsharp.common.netcore.116.0.230.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\cefsharp.wpf.netcore\\116.0.230\\cefsharp.wpf.netcore.116.0.230.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\chromiumembeddedframework.runtime\\116.0.23\\chromiumembeddedframework.runtime.116.0.23.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\chromiumembeddedframework.runtime.win-arm64\\116.0.23\\chromiumembeddedframework.runtime.win-arm64.116.0.23.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x64\\116.0.23\\chromiumembeddedframework.runtime.win-x64.116.0.23.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x86\\116.0.23\\chromiumembeddedframework.runtime.win-x86.116.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

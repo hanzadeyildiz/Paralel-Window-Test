@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Microsoft.Office.Interop.PowerPoint/15.0.4420.1018": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.PowerPoint.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          }
+        }
+      },
+      "NSystem.Data.MoonPdf.Wpf/2023.1.1": {
+        "runtime": {
+          "lib/net6.0-windows7.0/NSystem.Data.MoonPdf.Wpf.dll": {
+            "assemblyVersion": "2022.6.6.666",
+            "fileVersion": "2022.6.6.666"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm/native/libmupdf.dll": {
+            "rid": "win-arm",
+            "assetType": "native",
+            "fileVersion": "2.2.1.0"
+          },
+          "runtimes/win-arm64/native/libmupdf.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "2.2.1.0"
+          },
+          "runtimes/win-x64/native/libmupdf.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "2.2.1.0"
+          },
+          "runtimes/win-x86/native/libmupdf.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "2.2.1.0"
+          },
+          "runtimes/x64/native/libmupdf.dll": {
+            "rid": "x64",
+            "assetType": "native",
+            "fileVersion": "2.2.1.0"
+          },
+          "runtimes/x86/native/libmupdf.dll": {
+            "rid": "x86",
+            "assetType": "native",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Office.Interop.PowerPoint/15.0.4420.1018": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3XkJAqbYq93MqqSOPusNE+6Tve5yBkbE92n9W8f+k8Z9AzXeoTMqMYqhZMrzVOp4saHhMMbOD78JkCjvk+qIzw==",
+      "path": "microsoft.office.interop.powerpoint/15.0.4420.1018",
+      "hashPath": "microsoft.office.interop.powerpoint.15.0.4420.1018.nupkg.sha512"
+    },
+    "NSystem.Data.MoonPdf.Wpf/2023.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pbvAGWXKgeJPlT37sJXfxl+PnEv6kv5gHSR5D9yp4aHD+zIQfH4vQmwS0otIoAFg9gW7eK59/HAPrJv/weoM7A==",
+      "path": "nsystem.data.moonpdf.wpf/2023.1.1",
+      "hashPath": "nsystem.data.moonpdf.wpf.2023.1.1.nupkg.sha512"
+    }
+  }
+}

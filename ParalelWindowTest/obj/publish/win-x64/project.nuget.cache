@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IiniyJ/P2yn9nIuUUiLNGfyO7pGQQFO2EQEqIy5Vg/zsJigMC1KXKUbIbHFmId4FZGqonZnQG+Wnhfm0aA5yg==",
+  "success": true,
+  "projectFilePath": "D:\\4HERA(Git)\\ParalelWindowTest\\ParalelWindowTest\\ParalelWindowTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\cefsharp.common.netcore\\116.0.230\\cefsharp.common.netcore.116.0.230.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\cefsharp.wpf.netcore\\116.0.230\\cefsharp.wpf.netcore.116.0.230.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\chromiumembeddedframework.runtime\\116.0.23\\chromiumembeddedframework.runtime.116.0.23.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x64\\116.0.23\\chromiumembeddedframework.runtime.win-x64.116.0.23.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.22\\microsoft.netcore.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.22\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.22\\microsoft.aspnetcore.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.22\\microsoft.netcore.app.crossgen2.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

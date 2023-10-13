@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Microsoft.Office.Interop.PowerPoint/15.0.4420.1018": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.PowerPoint.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.PowerPoint.dll": {}
+        }
+      },
+      "NSystem.Data.MoonPdf.Wpf/2023.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/NSystem.Data.MoonPdf.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/NSystem.Data.MoonPdf.Wpf.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ],
+        "runtimeTargets": {
+          "runtimes/win-arm/native/libmupdf.dll": {
+            "assetType": "native",
+            "rid": "win-arm"
+          },
+          "runtimes/win-arm64/native/libmupdf.dll": {
+            "assetType": "native",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-x64/native/libmupdf.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/libmupdf.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          },
+          "runtimes/x64/native/libmupdf.dll": {
+            "assetType": "native",
+            "rid": "x64"
+          },
+          "runtimes/x86/native/libmupdf.dll": {
+            "assetType": "native",
+            "rid": "x86"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Office.Interop.PowerPoint/15.0.4420.1018": {
+      "sha512": "3XkJAqbYq93MqqSOPusNE+6Tve5yBkbE92n9W8f+k8Z9AzXeoTMqMYqhZMrzVOp4saHhMMbOD78JkCjvk+qIzw==",
+      "type": "package",
+      "path": "microsoft.office.interop.powerpoint/15.0.4420.1018",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.PowerPoint.dll",
+        "lib/netstandard2.0/Microsoft.Office.Interop.PowerPoint.dll",
+        "microsoft.office.interop.powerpoint.15.0.4420.1018.nupkg.sha512",
+        "microsoft.office.interop.powerpoint.nuspec"
+      ]
+    },
+    "NSystem.Data.MoonPdf.Wpf/2023.1.1": {
+      "sha512": "pbvAGWXKgeJPlT37sJXfxl+PnEv6kv5gHSR5D9yp4aHD+zIQfH4vQmwS0otIoAFg9gW7eK59/HAPrJv/weoM7A==",
+      "type": "package",
+      "path": "nsystem.data.moonpdf.wpf/2023.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/NSystem.Data.MoonPdf.Wpf.dll",
+        "lib/net45/NSystem.Data.MoonPdf.Wpf.dll",
+        "lib/net6.0-windows7.0/NSystem.Data.MoonPdf.Wpf.dll",
+        "lib/netcoreapp3.1/NSystem.Data.MoonPdf.Wpf.dll",
+        "nsystem.data.moonpdf.wpf.2023.1.1.nupkg.sha512",
+        "nsystem.data.moonpdf.wpf.nuspec",
+        "runtimes/win-arm/native/libmupdf.dll",
+        "runtimes/win-arm64/native/libmupdf.dll",
+        "runtimes/win-x64/native/libmupdf.dll",
+        "runtimes/win-x86/native/libmupdf.dll",
+        "runtimes/x64/native/libmupdf.dll",
+        "runtimes/x86/native/libmupdf.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Microsoft.Office.Interop.PowerPoint >= 15.0.4420.1018",
+      "NSystem.Data.MoonPdf.Wpf >= 2023.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\4HERA(Git)\\ParalelWindowTest\\PdfSample\\PdfSample.csproj",
+      "projectName": "PdfSample",
+      "projectPath": "D:\\4HERA(Git)\\ParalelWindowTest\\PdfSample\\PdfSample.csproj",
+      "packagesPath": "C:\\Users\\BurakSIMSEK\\.nuget\\packages\\",
+      "outputPath": "D:\\4HERA(Git)\\ParalelWindowTest\\PdfSample\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\BurakSIMSEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\BurakSIMSEK\\Documents\\Matrox Graphics\\Extio3 Central Manager SDK": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Microsoft.Office.Interop.PowerPoint": {
+            "target": "Package",
+            "version": "[15.0.4420.1018, )"
+          },
+          "NSystem.Data.MoonPdf.Wpf": {
+            "target": "Package",
+            "version": "[2023.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
